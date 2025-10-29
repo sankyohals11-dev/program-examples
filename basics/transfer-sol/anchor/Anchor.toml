@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-transfer_sol = "4fQVnLWKKKYxtxgGn7Haw8v2g2Hzbu8K61JvWKvqAi7W"
+transfer_sol = "2R57Acj8xMcxtHZYuzcthPqiwet2vgrcgKAoqhpboeEx"
 
 [registry]
 url = "https://anchor.projectserum.com"
